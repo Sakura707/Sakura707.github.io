@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>今日份tips</title>
+      <link href="/2023/04/28/New-Post2/"/>
+      <url>/2023/04/28/New-Post2/</url>
+      
+        <content type="html"><![CDATA[<h2 id="数不清这是爱你的第几天，但是我知道我会一直爱着你，直到永久。-——-小风给小怡的话"><a href="#数不清这是爱你的第几天，但是我知道我会一直爱着你，直到永久。-——-小风给小怡的话" class="headerlink" title="数不清这是爱你的第几天，但是我知道我会一直爱着你，直到永久。 —— 小风给小怡的话"></a>数不清这是爱你的第几天，但是我知道我会一直爱着你，直到永久。 —— 小风给小怡的话</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 情感 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 情感小句 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>今日份tips</title>
+      <link href="/2023/04/27/New-Post1/"/>
+      <url>/2023/04/27/New-Post1/</url>
+      
+        <content type="html"><![CDATA[<h2 id="如今我努力奔跑，不过是为了追上那个曾经被寄予厚望的自己-——-约翰-利文斯顿"><a href="#如今我努力奔跑，不过是为了追上那个曾经被寄予厚望的自己-——-约翰-利文斯顿" class="headerlink" title="如今我努力奔跑，不过是为了追上那个曾经被寄予厚望的自己 —— 约翰.利文斯顿"></a>如今我努力奔跑，不过是为了追上那个曾经被寄予厚望的自己 —— 约翰.利文斯顿</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 励志 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 励志短语 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>每日一个小tips</title>
+      <link href="/2023/04/25/My-New-Post/"/>
+      <url>/2023/04/25/My-New-Post/</url>
+      
+        <content type="html"><![CDATA[<ol><li>所有的努力，不是为了让别人觉得你了不起，而是为了能让自己打心眼里看得起自己。</li></ol><hr><ol start="2"><li>努力和收获，都是自己的，与他人无关。最大的成就感，就是一直在朝着自己想要的方向前进。</li></ol><hr><ol start="3"><li>誓言是世界上最靠不住的东西，只有你对别人还有用的时候，别人才会遵守誓言。</li></ol><hr><ol start="4"><li>许多不管怎么做、怎么想都没结果的事，要懂得交给时间。有些事，无论你怎么努力，怎么勉强，时间不够，还是耐心的等待吧。</li></ol><hr><ol start="5"><li>别因为落入了一把牛毛就把一锅奶油泼掉，别因为犯了一点错误就把一生的事业扔掉。</li></ol><hr><ol start="6"><li>成年人的世界，似乎只有赚到足够的钱，才能过上简单、安逸、自由的生活，才能让自己活得更有底气些。所以，多一些努力吧，少点功夫矫情。</li></ol><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 励志 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 励志短语 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2023/04/18/hello-world/"/>
+      <url>/2023/04/18/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
