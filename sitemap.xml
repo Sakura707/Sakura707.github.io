@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xinyi77.love/Gallery/index.html</loc>
+    
+    <lastmod>2023-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xinyi77.love/myself/index.html</loc>
+    
+    <lastmod>2023-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xinyi77.love/movies/index.html</loc>
+    
+    <lastmod>2023-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xinyi77.love/categories/index.html</loc>
+    
+    <lastmod>2023-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xinyi77.love/tags/index.html</loc>
+    
+    <lastmod>2023-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xinyi77.love/2023/05/01/New-Post3/</loc>
     
     <lastmod>2023-05-01</lastmod>
@@ -29,27 +74,9 @@
   </url>
   
   <url>
-    <loc>https://xinyi77.love/movies/index.html</loc>
-    
-    <lastmod>2023-04-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://xinyi77.love/music/index.html</loc>
     
     <lastmod>2023-04-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xinyi77.love/Gallery/index.html</loc>
-    
-    <lastmod>2023-04-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -83,15 +110,6 @@
   </url>
   
   <url>
-    <loc>https://xinyi77.love/myself/index.html</loc>
-    
-    <lastmod>2023-04-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://xinyi77.love/messageboard/index.html</loc>
     
     <lastmod>2023-04-27</lastmod>
@@ -104,24 +122,6 @@
     <loc>https://xinyi77.love/link/index.html</loc>
     
     <lastmod>2023-04-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xinyi77.love/categories/index.html</loc>
-    
-    <lastmod>2023-04-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xinyi77.love/tags/index.html</loc>
-    
-    <lastmod>2023-04-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
