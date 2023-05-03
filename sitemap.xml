@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xinyi77.love/2023/05/03/New-Post4/</loc>
+    
+    <lastmod>2023-05-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xinyi77.love/2023/05/01/New-Post3/</loc>
+    
+    <lastmod>2023-05-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xinyi77.love/Gallery/index.html</loc>
     
     <lastmod>2023-05-02</lastmod>
@@ -41,15 +59,6 @@
     <loc>https://xinyi77.love/tags/index.html</loc>
     
     <lastmod>2023-05-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xinyi77.love/2023/05/01/New-Post3/</loc>
-    
-    <lastmod>2023-05-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -164,14 +173,14 @@
 
   
   <url>
-    <loc>https://xinyi77.love/tags/%E6%83%85%E6%84%9F%E5%B0%8F%E5%8F%A5/</loc>
+    <loc>https://xinyi77.love/tags/%E5%8A%B1%E5%BF%97%E7%9F%AD%E8%AF%AD/</loc>
     <lastmod>2023-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://xinyi77.love/tags/%E5%8A%B1%E5%BF%97%E7%9F%AD%E8%AF%AD/</loc>
+    <loc>https://xinyi77.love/tags/%E6%83%85%E6%84%9F%E5%B0%8F%E5%8F%A5/</loc>
     <lastmod>2023-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -180,14 +189,14 @@
 
   
   <url>
-    <loc>https://xinyi77.love/categories/%E6%83%85%E6%84%9F/</loc>
+    <loc>https://xinyi77.love/categories/%E5%8A%B1%E5%BF%97/</loc>
     <lastmod>2023-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://xinyi77.love/categories/%E5%8A%B1%E5%BF%97/</loc>
+    <loc>https://xinyi77.love/categories/%E6%83%85%E6%84%9F/</loc>
     <lastmod>2023-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
