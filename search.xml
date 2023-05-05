@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Hexo 从零开始安装教程</title>
+      <link href="/2023/05/04/New-post5/"/>
+      <url>/2023/05/04/New-post5/</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本文详细描述了如何在Github上，使用hexo部署博客</p><h1 id="安装Hexo前提"><a href="#安装Hexo前提" class="headerlink" title="安装Hexo前提"></a>安装Hexo前提</h1><h2 id="安装node-js"><a href="#安装node-js" class="headerlink" title="安装node.js"></a>安装<a href="https://nodejs.org/zh-cn/download">node.js</a></h2><h2 id="安装Git"><a href="#安装Git" class="headerlink" title="安装Git"></a>安装<a href="https://git-scm.com/">Git</a></h2><!-- 引用 --><blockquote><p>关于具体的node.js和Git的安装可以自行查阅资料，这里不做过多介绍。</p></blockquote><h2 id="安装完成后检查安装的Node-js（内置npm）-和-Git-是否安装成功"><a href="#安装完成后检查安装的Node-js（内置npm）-和-Git-是否安装成功" class="headerlink" title="安装完成后检查安装的Node.js（内置npm） 和 Git 是否安装成功"></a>安装完成后检查安装的Node.js（内置npm） 和 Git 是否安装成功</h2><h2 id="接下来准备开始安装Hexo"><a href="#接下来准备开始安装Hexo" class="headerlink" title="接下来准备开始安装Hexo"></a>接下来准备开始安装Hexo</h2><h3 id="步骤一"><a href="#步骤一" class="headerlink" title="步骤一"></a>步骤一</h3><p>  找到我们的 <code>Git Bash</code> 并打开。</p><h3 id="步骤二"><a href="#步骤二" class="headerlink" title="步骤二"></a>步骤二</h3><p>  在命令行中输入： <code>node -v</code>和<code>npm -v</code>然后回车，显示出版本号即代表我们配置环境成功啦！</p><h3 id="步骤三"><a href="#步骤三" class="headerlink" title="步骤三"></a>步骤三</h3><p>  正式开始安装 Hexo ，在命令行中输入 <code>cnpm install -g hexo-cli</code>然后回车，静待一会等待下载完成。</p><h3 id="步骤四"><a href="#步骤四" class="headerlink" title="步骤四"></a>步骤四</h3><p>  验证 Hexo 安装是否成功，在命令行中输入 <code>hexo -v</code>然后回车，我们即可看到关于 Hexo 的一切详细信息。</p><h3 id="步骤五"><a href="#步骤五" class="headerlink" title="步骤五"></a>步骤五</h3><p>  利用命令行<code>mkdir Blog</code>创建我们即将使用的 Hexo 博客的目录文件夹(也可以自己手动创建)，里面将存放关于 Hexo 博客的各种配置文件、源码、文档、主题等。（如果在安装 Hexo 中出现任何问题，可以删除此目录文件夹，重新执行之前的步骤即可）。</p><h3 id="步骤六"><a href="#步骤六" class="headerlink" title="步骤六"></a>步骤六</h3><p>  初始化 Hexo 博客，进入你所创建的文件夹，右键打开<code>Git Bash</code>在命令行中输入<code>hexo init</code>然后回车，等待初始化，显示<code>INFO Start blogging with Hexo!</code>，即为初始化成功！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo安装 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>今日份tips</title>
       <link href="/2023/05/03/New-Post4/"/>
       <url>/2023/05/03/New-Post4/</url>
