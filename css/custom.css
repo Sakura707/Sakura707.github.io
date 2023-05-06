@@ -26,7 +26,7 @@
 /* 是否在桌面显示歌词 */
 .aplayer.aplayer-fixed .aplayer-lrc {
   /* display: block; */
-  text-shadow: none;
+  text-shadow: none !important;
 }
 .aplayer.aplayer-fixed .aplayer-lrc p{
   font-size: 16px;
