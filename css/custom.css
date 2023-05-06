@@ -1,21 +1,33 @@
 .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {
-          left: -66px !important;
-          /* 默认情况下缩进左侧66px，只留一点箭头部分 */
-        }
-        .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover {
-          left: 0 !important;
-          /* 鼠标悬停是左侧缩进归零，完全显示按钮 */
-        }
-        .aplayer.aplayer-fixed .aplayer-miniswitcher {
-          background: #cbcbcb;
-          border-radius: 0 10px 10px 0;
-        }
-        .aplayer.no-destroy.no-reload.aplayer-withlist.aplayer-fixed .aplayer-body {
-          border-radius: 0 10px 10px 0;
-          bottom: 25px;
-          box-shadow: 0 0 10px black;
-        }
-        .aplayer.no-destroy.no-reload.aplayer-withlist.aplayer-fixed {
-          bottom: 25px;
-          box-shadow: 0 0 10px black;
-        }
+  left: -66px !important;
+  /* 默认情况下缩进左侧66px，只留一点箭头部分 */
+}
+
+.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover {
+  left: 0 !important;
+  /* 鼠标悬停是左侧缩进归零，完全显示按钮 */
+}
+
+.aplayer.aplayer-fixed .aplayer-miniswitcher {
+  background: #cbcbcb;
+  border-radius: 0 10px 10px 0;
+}
+
+.aplayer.no-destroy.no-reload.aplayer-withlist.aplayer-fixed .aplayer-body {
+  border-radius: 0 10px 10px 0;
+  bottom: 25px;
+  box-shadow: 0 0 10px black;
+}
+
+.aplayer.no-destroy.no-reload.aplayer-withlist.aplayer-fixed {
+  bottom: 25px;
+  box-shadow: 0 0 10px black;
+}
+/* 是否在桌面显示歌词 */
+/* .aplayer.aplayer-fixed .aplayer-lrc {
+  display: block;
+} */
+.aplayer.aplayer-fixed .aplayer-lrc p{
+  font-size: 16px;
+  color: #1DB954;
+}
