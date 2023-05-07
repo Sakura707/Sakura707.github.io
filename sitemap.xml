@@ -4,7 +4,7 @@
   <url>
     <loc>https://xinyi77.love/music/index.html</loc>
     
-    <lastmod>2023-05-05</lastmod>
+    <lastmod>2023-05-07</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -175,7 +175,7 @@
 
   <url>
     <loc>https://xinyi77.love/</loc>
-    <lastmod>2023-05-06</lastmod>
+    <lastmod>2023-05-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -183,21 +183,21 @@
   
   <url>
     <loc>https://xinyi77.love/tags/%E5%8A%B1%E5%BF%97%E7%9F%AD%E8%AF%AD/</loc>
-    <lastmod>2023-05-06</lastmod>
+    <lastmod>2023-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://xinyi77.love/tags/%E6%83%85%E6%84%9F%E5%B0%8F%E5%8F%A5/</loc>
-    <lastmod>2023-05-06</lastmod>
+    <lastmod>2023-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://xinyi77.love/tags/hexo%E5%AE%89%E8%A3%85/</loc>
-    <lastmod>2023-05-06</lastmod>
+    <lastmod>2023-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -206,21 +206,21 @@
   
   <url>
     <loc>https://xinyi77.love/categories/%E5%8A%B1%E5%BF%97/</loc>
-    <lastmod>2023-05-06</lastmod>
+    <lastmod>2023-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://xinyi77.love/categories/%E6%83%85%E6%84%9F/</loc>
-    <lastmod>2023-05-06</lastmod>
+    <lastmod>2023-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://xinyi77.love/categories/hexo/</loc>
-    <lastmod>2023-05-06</lastmod>
+    <lastmod>2023-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
